@@ -18,6 +18,7 @@ Each file will contain a series of "things", one "thing" per line. Case does not
 For each line, print out YES or NO for whether I like that "thing" or not respectively
 
 ## Sample Input
+```
 yes
 no
 you
@@ -32,8 +33,10 @@ housefly
 smooth
 kickball
 paddle
+```
 
 ## Sample Output
+```
 NO
 NO
 YES
@@ -48,3 +51,4 @@ NO
 NO
 NO
 NO
+```
